@@ -1,0 +1,21 @@
+# env files
+*.env
+credentials.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+logs/
+
+# Editor / OS
+.vscode/
+Thumbs.db
+.DS_Store
